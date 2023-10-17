@@ -1,0 +1,25 @@
+body {
+    font-family: "Arial", sans-serif;
+}
+
+.bar {
+    fill: #498dc9;
+}
+
+.red-bar {
+    fill: #c92006;
+}
+
+.axis {
+    font-size: 13px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    display: none;
+}
+
+.label {
+    font-size: 13px;
+}
